@@ -120,4 +120,4 @@ This model enables the analysis of organizational performance from multiple pers
 
 The following diagram illustrates the structure of the data model:
 
-![Data Model](docs/Data model.drawio.png)
+![Data Model](docs/data_model.png)
